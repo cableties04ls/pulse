@@ -99,5 +99,3 @@ module Integrator
   assign ce_out = enb_1_12_1;
 
 endmodule  // Integrator
-
-has popup
